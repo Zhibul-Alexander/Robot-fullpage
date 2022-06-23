@@ -1,4 +1,4 @@
-import {FullPageScroll} from "./FullPageScroll/index";
+import { FullPageScroll } from "./FullPageScroll/index";
 import "./config/config.css";
 
 export const App = () => {
@@ -7,4 +7,4 @@ export const App = () => {
       <FullPageScroll />
     </div>
   );
-}
+};
