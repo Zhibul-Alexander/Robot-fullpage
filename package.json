@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Zhibul-Alexander.github.io/Robot-fullpage",
   "name": "robot-fullpage",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,7 @@
     "@types/node": "^16.11.64",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
+    "gh-pages": "^4.0.0",
     "parallax-js": "^3.1.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -25,6 +27,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
