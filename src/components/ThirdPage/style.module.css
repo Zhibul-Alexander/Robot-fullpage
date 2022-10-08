@@ -1,0 +1,20 @@
+    .container {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: 100vh;
+    }
+
+    .background {
+        position: absolute;
+        width: 120%;
+        height: 120%;
+
+        left: -10%;
+        top: -15%;
+
+        background-image: url("https://cdn2.unrealengine.com/Odin%2FHomeAssets%2FLocationSection%2Fscreenshots%2Fscreenshot1-min-1920x1080-ecb8d65c2a9a8b01d99b2e26802bcef82a22548b.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
