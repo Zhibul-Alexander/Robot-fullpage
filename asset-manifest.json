@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Robot-fullpage/static/css/main.66306472.css",
+    "main.js": "/Robot-fullpage/static/js/main.866b094b.js",
+    "static/media/layer6.png": "/Robot-fullpage/static/media/layer6.2829d99814ad64465639.png",
+    "static/media/layerBG.jpeg": "/Robot-fullpage/static/media/layerBG.7c8a7755b3bafa33d75b.jpeg",
+    "static/media/layer1.png": "/Robot-fullpage/static/media/layer1.34155c0c2142609f63da.png",
+    "static/media/layer3.png": "/Robot-fullpage/static/media/layer3.34e12e9ea6a1ac20fdf3.png",
+    "static/media/layer2.png": "/Robot-fullpage/static/media/layer2.f892c358ff48258c9520.png",
+    "static/media/layer5.png": "/Robot-fullpage/static/media/layer5.8ef51e3264c9a807d4b5.png",
+    "static/media/layer4.png": "/Robot-fullpage/static/media/layer4.e3fd0580a8dad26a6a14.png",
+    "index.html": "/Robot-fullpage/index.html",
+    "main.66306472.css.map": "/Robot-fullpage/static/css/main.66306472.css.map",
+    "main.866b094b.js.map": "/Robot-fullpage/static/js/main.866b094b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66306472.css",
+    "static/js/main.866b094b.js"
+  ]
+}
